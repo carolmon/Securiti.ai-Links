@@ -1,0 +1,63 @@
+Securiti.ai Configuring connectors for monitored data stores links:
+
+ActiveCampaingn :
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-activecampaign-connector/collect-api-information-in-activecampaign.html#UUID-e081b223-e0f6-d50f-9cb9-0ab8baa6231a
+
+AdButler :
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-adbutler-connector/register-an-api-in-adbutler.html
+
+Airtable :
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-airtable-connector/acquire-authentication-credentials-in-airtable.html
+
+Amazon Athena :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-amazon-athena-connector.html#UUID-3bdc2289-55d8-c800-c6f7-cb1293ad5d80
+
+* utiliza appliance
+
+como configurar appliance :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances/installing-an-appliance.html##
+
+Amazon Dynamodb Connector :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-amazon-dynamodb-connector.html
+
+* utiliza appliance
+
+como configurar appliance :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances/installing-an-appliance.html##
+
+Amplitude :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-amplitude-connector/register-a-project-in-amplitude.html#UUID-e4cf636f-5169-c2f9-87b4-ba42053cd172
+
+Apache Hive :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-apache-hive-connector.html#UUID-90537f97-657a-4ed1-e69f-e3e2e8a5286d
+
+* utiliza appliance
+
+como configurar appliance :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances/installing-an-appliance.html##
+
+Asana :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-asana-connector/register-an-application-in-asana.html#UUID-43bbf8b2-3158-f30c-201c-142b46571644
+
+AWS S3 :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-aws-s3-connector.html#UUID-ece0291f-012e-b27f-bcf8-9f205f8b04b0
+
+* utiliza appliance
+
+como configurar appliance :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances/installing-an-appliance.html##
+
+Azure Blobs :
+
+https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-azure-blobs-connector.html#UUID-0c975cfd-50a5-a8ae-ad5c-1fc71d31b8a4
+
