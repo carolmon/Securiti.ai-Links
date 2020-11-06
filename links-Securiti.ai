@@ -61,3 +61,22 @@ Azure Blobs :
 
 https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-azure-blobs-connector.html#UUID-0c975cfd-50a5-a8ae-ad5c-1fc71d31b8a4
 
+Azure Cosmos DB : 
+
+Etapa 1 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances.html
+
+Etapa 2 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-azure-cosmos-db-connector/acquire-authentication-credentials-in-azure-cosmos-db.html
+
+Azure Data Warehouse : 
+
+Etapa 1 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances.html
+
+Etapa 2 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-azure-data-warehouse-connector/acquire-authentication-credentials-in-azure-data-warehouse.html
+
+Azure Files :
+
+Etapa 1 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/managing-data-stores-and-connectors/configuring-connectors-for-monitored-data-stores/configuring-the-azure-files-connector/create-an-azure-storage-account.html
+
+Etapa 2 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances.html
+
+Etapa 3 : https://docs.securiti.ai/en/configuring-securiti-ai-settings/configuring-securiti-ai-on-premises-appliances/activating-your-on-premises-data-store-connector-on-the-appliance.html#UUID-1754a792-7324-350d-1063-a5c58fee5217 
